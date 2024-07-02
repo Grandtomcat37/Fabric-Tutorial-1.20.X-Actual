@@ -2,5 +2,8 @@
   "item.tutorialmod.ruby": "Ruby",
   "item.tutorialmod.raw_ruby": "This is a Fucking Raw Ruby",
 
+  "block.tutorialmod.ruby_block": "Dude, That's a Huge ass Block of Ruby",
+  "block.tutorialmod.raw_ruby_block": "Ewww, A gross Raw Ruby Block",
+
   "itemgroup.ruby": "Ruby Tutorial Group"
 }

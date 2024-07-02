@@ -1,6 +1,7 @@
 package net.christian.tutorialmod.item;
 
 import net.christian.tutorialmod.TutorialMod;
+import net.christian.tutorialmod.block.ModBlocks;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemGroups;
@@ -20,6 +21,9 @@ public class ModItemGroups {
                         entries.add(ModsItems.RAW_RUBY);
 
                         entries.add(Items.DIAMOND);
+
+                        entries.add(ModBlocks.RUBY_BLOCK);
+                        entries.add(ModBlocks.RAW_RUBY_BLOCK);
                     }).build());
 
     public static void registerItemGroups() {

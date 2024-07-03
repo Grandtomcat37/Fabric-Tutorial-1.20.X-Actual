@@ -20,10 +20,21 @@ public class ModItemGroups {
                         entries.add(ModsItems.RUBY);
                         entries.add(ModsItems.RAW_RUBY);
 
+                        entries.add(ModsItems.METAL_DETECTOR);
+
                         entries.add(Items.DIAMOND);
 
                         entries.add(ModBlocks.RUBY_BLOCK);
                         entries.add(ModBlocks.RAW_RUBY_BLOCK);
+
+                        entries.add(ModBlocks.RUBY_ORE);
+                        entries.add(ModBlocks.DEEPSLATE_RUBY_ORE);
+                        entries.add(ModBlocks.NETHER_RUBY_ORE);
+                        entries.add(ModBlocks.END_STONE_RUBY_ORE);
+
+                        entries.add(ModBlocks.SOUND_BLOCK_LOW_EXPLOSION);
+                        entries.add(ModBlocks.SOUND_BLOCK_NORMAL_EXPLOSION);
+                        entries.add(ModBlocks.SOUND_BLOCK_HIGH_EXPLOSION);
                     }).build());
 
     public static void registerItemGroups() {

@@ -1,9 +1,18 @@
 {
   "item.tutorialmod.ruby": "Ruby",
   "item.tutorialmod.raw_ruby": "This is a Fucking Raw Ruby",
+  "item.tutorialmod.metal_detector": "OMG, ITS A FUCKING METAL DETECTOR",
 
   "block.tutorialmod.ruby_block": "Dude, That's a Huge ass Block of Ruby",
   "block.tutorialmod.raw_ruby_block": "Ewww, A gross Raw Ruby Block",
+
+  "block.tutorialmod.ruby_ore": "Oh, Its Ruby Ore!",
+  "block.tutorialmod.deepslate_ruby_ore": "Holy Shit, Deepslate Ruby Ore",
+  "block.tutorialmod.nether_ruby_ore": "Farm that Fucking Ruby Ore XP",
+  "block.tutorialmod.end_stone_ruby_ore": "Alright, Might have overdone the XP (ruby ore)",
+  "block.tutorialmod.sound_block_low_explosion": "Possibly Might be A Little DEEP",
+  "block.tutorialmod.sound_block_normal_explosion": "Possibly Might be A Little NORMAL",
+  "block.tutorialmod.sound_block_high_explosion": "Possibly Might be A Little LOUD",
 
   "itemgroup.ruby": "Ruby Tutorial Group"
 }
